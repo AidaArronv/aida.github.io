@@ -1,0 +1,62 @@
+body {
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(susus.jpg);
+	color: yellow;
+	font-family: sans-serif;
+	background-size: cover;
+	background-attachment: fixed;
+}
+h1{
+  font-size: 40px;
+  text-align: center;
+}
+p{
+  font-size: 30px;
+  text-align: center;
+  font-family: Georgia
+}
+ul{
+  font-size: 28px;
+  text-align: left;
+  font-family: Script MJ Bold;
+}
+h2{
+	font-size: 30px;
+	text-align: center;
+	font-family: Georgia
+}
+h3{
+	font-size: 30px;
+	text-align: center;
+	font-family: Georgia
+}
+img{
+	width: 500px;
+	display: block;
+	margin: auto;
+}
+.menu{
+	background-color: #233804;
+	list-style: auto;
+	margin: 0;
+	padding: 10px;
+	overflow: hidden;
+}
+.menu li{
+	float: center;
+}
+.menu li a{
+	display: block;
+	padding: 14px 16px;
+	color: white;
+	text-align: center;
+	text-decoration: underline;
+	text-decoration-color: yellow;
+	color: yellow;
+}
+button {
+	display: square;
+	color: yellow;
+  background-color: green;
+	font-size: 20px;
+	text-align: center;
+}
